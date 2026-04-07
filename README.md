@@ -13,7 +13,7 @@ A web-based assistant designed to help students manage their academic tasks effi
 - AI API (Gemini )
 
 ## 🌐 Live Demo
-smart-college-assistant.netlify.app
+https://smart-college-assistant.netlify.app/
 
 ## 📌 Future Scope
 - Full AI integration
