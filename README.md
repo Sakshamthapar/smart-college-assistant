@@ -10,10 +10,10 @@ A web-based assistant designed to help students manage their academic tasks effi
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript
 - Node.js (Backend)
-- AI API (Gemini / HuggingFace)
+- AI API (Gemini )
 
 ## 🌐 Live Demo
-[Paste your Netlify link here]
+smart-college-assistant.netlify.app
 
 ## 📌 Future Scope
 - Full AI integration
