@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart College Assistant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🎓 Smart College Assistant</h1>
+
+<div class="container">
+
+  <!-- Notes -->
+  <h2>📝 Notes</h2>
+  <input id="noteInput" placeholder="Enter note">
+  <button onclick="addNote()">Add</button>
+  <ul id="notesList"></ul>
+
+  <!-- Timetable -->
+  <h2>📅 Timetable</h2>
+  <input id="subject" placeholder="Subject">
+  <input id="time" placeholder="Time">
+  <button onclick="addTimetable()">Add</button>
+  <ul id="timetableList"></ul>
+
+  <!-- AI Chat -->
+  <h2>🤖 AI Assistant</h2>
+  <input id="chatInput" placeholder="Ask something">
+  <button onclick="chat()">Ask</button>
+  <p id="chatOutput"></p>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
